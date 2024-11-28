@@ -13,3 +13,4 @@
 5. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
 6. [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)
 7. [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
+8. [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
